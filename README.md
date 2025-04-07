@@ -15,8 +15,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Replace with your actual links -->
-<a href="www.linkedin.com/in/yug-sharma-511541285" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://x.com/Sharmaji_Yug" target="__blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yug-sharma-511541285" target="__blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://x.com/Sharmaji_Yug" target="__blank">
+  <img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
