@@ -40,9 +40,6 @@
   <a href="https://isocpp.org/" target="__blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="__blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="__blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -50,15 +47,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📌 Exploring Next
-
-- ⚙️ Linux Internals
-- 🧵 Multithreading & Concurrency
-- 🌐 Backend Development (Spring Boot – upcoming phase)
-- 🔐 Security & Exploit Fundamentals (long-term)
 
 ---
 
@@ -72,8 +60,8 @@
 
 <h3 align="left">Let’s Connect</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yug-sharma-511541285" target="__blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="mailto:yugs1511@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
 </a>
 <a href="https://x.com/Sharmaji_Yug" target="__blank">
   <img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="30" width="40" />
