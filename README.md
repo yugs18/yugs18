@@ -58,12 +58,7 @@
 
 ---
 
-<h3 align="left">Let’s Connect</h3>
-<p align="left">
-<a href="mailto:yugs1511@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
-<a href="https://x.com/Sharmaji_Yug" target="__blank">
-  <img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="30" width="40" />
-</a>
-</p>
+### Let’s Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:yugs1511@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/Sharmaji_Yug)
