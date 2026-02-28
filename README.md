@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yug Sharma</h1>
-<h3 align="center">Programmer | Systems • C • OS • Learning by Building</h3>
+<h3 align="center">Systems-Focused Programmer | C • OS • Linux • Learning by Building</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,25 +9,29 @@
 
 ---
 
+---
+
 ### 👨‍💻 About Me
 
-- 💻 Programmer focused on **strong fundamentals and systems-level understanding**
-- 🛠️ Building projects in **C** to deeply understand how things work under the hood
-- 📘 Believe in *learning theory + implementing it from scratch*
-- 🚀 Long-term goal: **systems programming, backend, and hacking**
+- 🛠️ Learning and building real projects in **C**
+- 📈 Practicing **Data Structures & Algorithms (C++)**
+- 🐧 Exploring **Linux (Ubuntu in VM)**
+- 🧠 Studying core **Operating System concepts**
+- 🚀 Focused on mastering strong fundamentals
 
 ---
 
-### 🔧 What I’m Working On Right Now
+### 🔥 Current Focus
 
-- 🧩 Implementing projects in **C**  
-- 📚 Studying **Operating Systems**
-- 🐧 Learning **Linux fundamentals** and working in **WSL (Ubuntu)**
-- 📈 Practicing **DSA (C++)** consistently
+- ⚙️ Building low-level programs in **C**
+- 🧩 Solving DSA problems consistently in **C++**
+- 🐧 Working daily inside **Ubuntu (Virtual Machine)**
+- 📚 Strengthening Linux & OS understanding
+- 💻 Improving command-line workflow and discipline
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="__blank">
@@ -49,24 +53,24 @@
 
 ---
 
-### 📌 Currently Learning / Exploring
+### 📌 Exploring Next
 
-- Operating Systems
-- Linux Internals & Shell
-- Data Structures & Algorithms (C++)
-- Backend & Full Stack (later phase)
+- ⚙️ Linux Internals
+- 🧵 Multithreading & Concurrency
+- 🌐 Backend Development (Spring Boot – upcoming phase)
+- 🔐 Security & Exploit Fundamentals (long-term)
 
 ---
 
 ### 🌱 Philosophy
 
-> Learn the fundamentals.  
+> Master the fundamentals.  
 > Build from scratch.  
-> Understand how systems really work.
+> Break things. Fix them. Understand them.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let’s Connect</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yug-sharma-511541285" target="__blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
